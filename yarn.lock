@@ -22,10 +22,10 @@
   resolved "https://registry.yarnpkg.com/@zeit/git-hooks/-/git-hooks-0.1.4.tgz#70583db5dd69726a62c7963520e67f2c3a33cc5f"
   integrity sha512-NvgZgoYJ/n27Ly7lKxKttMIKSS8P4dr1EURgTmqihHVdTAEqVtkAYPT5XykZIR+GKz8WRGyEQVJekwSgvjYQLg==
 
-"@zeit/schemas@2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@zeit/schemas/-/schemas-2.6.0.tgz#004e8e553b4cd53d538bd38eac7bcbf58a867fe3"
-  integrity sha512-uUrgZ8AxS+Lio0fZKAipJjAh415JyrOZowliZAzmnJSsf7piVL5w+G0+gFJ0KSu3QRhvui/7zuvpLz03YjXAhg==
+"@zeit/schemas@2.28.0":
+  version "2.28.0"
+  resolved "https://registry.yarnpkg.com/@zeit/schemas/-/schemas-2.28.0.tgz#cecb55add290111bcc56659ac8db97256e0610dc"
+  integrity sha512-LBZHqtqu5bNYJFcYMxUDwnt4QnjoH+2sUjbcNwuxo/mdwz7vfJ31LwVZphgBCnm9UNOH3C3lT1uH214Vt8x13g==
 
 accepts@~1.3.5:
   version "1.3.7"
